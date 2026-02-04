@@ -38,6 +38,7 @@ This project was created as part of my Flutter learning journey, focusing on API
 
 ## 📂 Project Structure
 
+```
 lib/
 ├── main.dart
 ├── screens/
@@ -50,3 +51,4 @@ lib/
 │ └── weather.dart
 ├── utils/
 │ └── constants.dart
+```
