@@ -1,16 +1,52 @@
-# weather_app
+# 🌤️ Weather App (Flutter)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 📱 Demo
+<p align="center">
+	<img src="assets/demo/demo.png" alt="Chat App preview" width="300"/>
+    <img src="assets/demo/demo2.png" alt="Chat App preview" width="300"/>
+    <img src="assets/demo/dem3.png" alt="Chat App preview" width="300"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A simple and clean **Weather App built with Flutter** that allows users to check real-time weather data based on their current location or by searching for a city.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was created as part of my Flutter learning journey, focusing on API integration, asynchronous programming, and clean project structure.
+
+---
+
+## 📱 Features
+
+- 🌍 Get weather data using the **current device location**
+- 🔍 Search weather by **city name**
+- 🌡️ Display temperature and weather conditions
+- ⚡ Real-time data from a weather API
+- 📱 Responsive UI for mobile devices
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter**
+- **Dart**
+- **HTTP requests**
+- **Geolocation**
+- **REST API integration**
+
+---
+
+## 📂 Project Structure
+
+lib/
+├── main.dart
+├── screens/
+│ ├── loading_screen.dart
+│ ├── location_screen.dart
+│ └── city_screen.dart
+├── services/
+│ ├── location.dart
+│ ├── networking.dart
+│ └── weather.dart
+├── utils/
+│ └── constants.dart
