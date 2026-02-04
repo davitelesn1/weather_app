@@ -6,7 +6,7 @@
 <p align="center">
 	<img src="assets/demo/demo.png" alt="Chat App preview" width="300"/>
     <img src="assets/demo/demo2.png" alt="Chat App preview" width="300"/>
-    <img src="assets/demo/dem3.png" alt="Chat App preview" width="300"/>
+    <img src="assets/demo/demo3.png" alt="Chat App preview" width="300"/>
 </p>
 
 
